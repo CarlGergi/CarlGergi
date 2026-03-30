@@ -12,13 +12,16 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science & Economics** student at the **University of Toronto** (2nd Year) passionate about building full-stack applications and leveraging AI to solve real-world problems.
+I'm a **Computer Science & Economics** student at the **University of Toronto** (2nd Year) driven by one thing: **building software that solves real-world problems.**
 
-I love working at the intersection of **software engineering** and **AI** — from crafting polished user interfaces to integrating intelligent APIs and automation.
+I work at the intersection of **full-stack development**, **AI integration**, and **data-driven thinking** — combining technical depth with an economics mindset to build products that are not just functional, but impactful.
+
+Whether it's shipping a polished web app, designing an AI-powered workflow, or wiring up APIs to automate what shouldn't be manual — I'm always looking for the next thing to build.
 
 - 🎓 HBSc Computer Science & Economics @ **UofT**
 - 🌍 Based in **Toronto, ON**
-- 🚀 Currently building projects with **AI APIs** and **modern web frameworks**
+- 🚀 Currently building with **AI APIs**, **modern frameworks**, and **cloud-native tools**
+- 💡 Passionate about **AI agents**, **prompt engineering**, and **applied economics**
 
 ---
 
@@ -63,15 +66,6 @@ I love working at the intersection of **software engineering** and **AI** — fr
   <img src="https://img.shields.io/badge/ElevenLabs_API-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlGergi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlGergi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
