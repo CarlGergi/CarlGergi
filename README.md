@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science & Economics** student at the **University of Toronto** (2nd Year) driven by one thing: **building software that solves real-world problems.**
+I'm a **Computer Science & Economics** student at the **University of Toronto** (3rd Year) driven by one thing: **building software that solves real-world problems.**
 
 I work at the intersection of **full-stack development**, **AI integration**, and **data-driven thinking** — combining technical depth with an economics mindset to build products that are not just functional, but impactful.
 
