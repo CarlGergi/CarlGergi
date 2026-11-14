@@ -6,8 +6,6 @@
   <a href="mailto:carlgergi@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
 ## 👋 About Me
 
 I'm a Computer Science and Economics student at the University of Toronto, and I love **solving real-world problems**: taking an idea and turning it into something people actually use, something that makes their day a little easier. Whether it's a weekend hackathon or an agent I'm building on my own, that's the part I enjoy most.
@@ -16,8 +14,6 @@ These days I'm building mostly around **AI agents** and the space where **financ
 
 - **Education:** Third year · AI focus · 3.8 CGPA · Dean's List every semester
 - **2× Hackathon Winner:** Kanz AI Hackathon (out of 4,500+ submissions) and TechTO Hackathon
-
----
 
 ## 🚀 Projects
 
@@ -56,8 +52,6 @@ These days I'm building mostly around **AI agents** and the space where **financ
 - A team of agents reviews competitors' websites, pricing, job posts and filings overnight and delivers a one-page brief by morning.
 - Covers **9** source types, with a critic agent that removes any claim the evidence does not support.
 
----
-
 ## 🏆 Hackathons
 
 ### [SIMTERN](https://github.com/CarlGergi/simtern) <sub>Winner, Kanz AI Hackathon</sub>
@@ -95,8 +89,6 @@ These days I'm building mostly around **AI agents** and the space where **financ
 - Runs on Supabase Edge Functions, orchestrating Claude for reasoning and ElevenLabs for voice.
 
 <a href="https://youtu.be/zAN5Ru6b67E"><img src="https://img.shields.io/badge/Watch_the_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the demo" /></a>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -158,3 +150,7 @@ These days I'm building mostly around **AI agents** and the space where **financ
     </td>
   </tr>
 </table>
+
+<br/>
+
+<p align="center"><b><i>Always building. Always learning.</i></b></p>
